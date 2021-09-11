@@ -44,6 +44,7 @@ void separate3(int arr[], int n)
     }
   }
 }
+// sanjay kazi
 void printArr(int arr[], int m)
 {
   for (int i = 0; i < m; i++)
